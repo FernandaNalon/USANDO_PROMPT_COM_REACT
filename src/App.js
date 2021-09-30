@@ -1,7 +1,6 @@
 import './App.css';
 import React from 'react';
 
-
    var a = parseInt(prompt("Digite um número: "));
    var b = parseInt(prompt("Digite um valor: "));
 
