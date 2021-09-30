@@ -7,7 +7,6 @@ import React from 'react';
 
 function App () {
    
-
    function teste() {
       return (a+b);
    }
